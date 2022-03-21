@@ -1,0 +1,16 @@
+[
+{
+  "modid": "externalview",
+  "name": "External View Mod",
+  "description": "Simple mod to change player's camera distance.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["FrozeRain"],
+  "credits": "FrozeRain",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
